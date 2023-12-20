@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="56px" viewBox="0 0 68 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close Quotation</title>
+    <g id="PHASE-2-[Desktop]" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Homepage" transform="translate(-1085.000000, -3323.000000)" fill="#E8E8E8" fill-rule="nonzero">
+            <g id="Reviews" transform="translate(0.000000, 2902.000000)">
+                <g id="Group-7" transform="translate(232.000000, 202.000000)">
+                    <g id="REVIEW" transform="translate(0.000000, 50.000000)">
+                        <g id="Review-Text-Content" transform="translate(178.000000, 25.000000)">
+                            <path d="M705,144 L705,162.849673 C705,170.047966 703.742344,176.514133 701.226994,182.248366 C698.711644,187.982599 694.447883,193.899752 688.435583,200 L677.576687,191.398693 C683.711687,185.176439 687.453981,179.198286 688.803681,173.464052 L675,173.464052 L675,144 L705,144 Z M743,144 L743,162.849673 C743,170.047966 741.742344,176.514133 739.226994,182.248366 C736.711644,187.982599 732.447883,193.899752 726.435583,200 L715.576687,191.398693 C721.711687,185.176439 725.453981,179.198286 726.803681,173.464052 L713,173.464052 L713,144 L743,144 Z" id="Close-Quotation"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

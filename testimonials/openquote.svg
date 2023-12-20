@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="56px" viewBox="0 0 68 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Open Quotation</title>
+    <g id="PHASE-2-[Desktop]" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-Homepage" transform="translate(-410.000000, -3269.000000)" fill="#E8E8E8" fill-rule="nonzero">
+            <g id="Reviews" transform="translate(0.000000, 2902.000000)">
+                <g id="Group-7" transform="translate(232.000000, 202.000000)">
+                    <g id="REVIEW" transform="translate(0.000000, 50.000000)">
+                        <g id="Review-Text-Content" transform="translate(178.000000, 25.000000)">
+                            <path d="M30,116.535948 L30,146 L0,146 L0,126.96732 C0,119.891032 1.28833067,113.485867 3.86503067,107.751634 C6.44171779,102.017401 10.7361663,96.1002484 16.7484663,90 L27.607362,98.6013072 C21.472362,104.823561 17.7300681,110.801714 16.3803681,116.535948 L30,116.535948 Z M68,116.535948 L68,146 L38,146 L38,126.96732 C38,119.891032 39.2883307,113.485867 41.8650307,107.751634 C44.4417178,102.017401 48.7361663,96.1002484 54.7484663,90 L65.607362,98.6013072 C59.472362,104.823561 55.7300681,110.801714 54.3803681,116.535948 L68,116.535948 Z" id="Open-Quotation"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
