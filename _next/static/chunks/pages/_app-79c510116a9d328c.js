@@ -31243,7 +31243,7 @@ ${T.current.stack}
     81969: function (t, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/squiggly-long.bef44f60.svg",
+        src: "https://www.lizard.global/_next/static/media/squiggly-long.bef44f60.svg",
         height: 14,
         width: 436
       }
@@ -31251,7 +31251,7 @@ ${T.current.stack}
     33982: function (t, e) {
       "use strict";
       e.Z = {
-        src: "/_next/static/media/squiggly-short.16cf8c7d.svg",
+        src: "https://www.lizard.global/_next/static/media/squiggly-short.16cf8c7d.svg",
         height: 14,
         width: 218
       }
@@ -36440,72 +36440,72 @@ ${T.current.stack}
         ec = r(79325);
       r(12322);
       var eh = {
-          src: "/_next/static/media/156-green_arrow.961eda94.svg",
+          src: "https://www.lizard.global/_next/static/media/156-green_arrow.961eda94.svg",
           height: 8,
           width: 8
         },
         ep = {
-          src: "/_next/static/media/157-white_arrow.6717ede3.svg",
+          src: "https://www.lizard.global/_next/static/media/157-white_arrow.6717ede3.svg",
           height: 8,
           width: 8
         },
         ef = {
-          src: "/_next/static/media/158-idea.38381eb9.svg",
+          src: "https://www.lizard.global/_next/static/media/158-idea.38381eb9.svg",
           height: 42,
           width: 42
         },
         ed = {
-          src: "/_next/static/media/159-color_pallet.e8fd92ed.svg",
+          src: "https://www.lizard.global/_next/static/media/159-color_pallet.e8fd92ed.svg",
           height: 42,
           width: 42
         },
         em = {
-          src: "/_next/static/media/160-magic_wand.808c5349.svg",
+          src: "https://www.lizard.global/_next/static/media/160-magic_wand.808c5349.svg",
           height: 42,
           width: 42
         },
         ey = {
-          src: "/_next/static/media/161-bar_chart.cc9816a9.svg",
+          src: "https://www.lizard.global/_next/static/media/161-bar_chart.cc9816a9.svg",
           height: 42,
           width: 42
         },
         ev = {
-          src: "/_next/static/media/162-dashedarrow.bcaf5d9b.svg",
+          src: "https://www.lizard.global/_next/static/media/162-dashedarrow.bcaf5d9b.svg",
           height: 16,
           width: 200
         },
         eg = {
-          src: "/_next/static/media/163-boldarrowright.2ac19b0f.svg",
+          src: "https://www.lizard.global/_next/static/media/163-boldarrowright.2ac19b0f.svg",
           height: 20,
           width: 20
         },
         eb = {
-          src: "/_next/static/media/164-industriesarrow.3e477e6f.svg",
+          src: "https://www.lizard.global/_next/static/media/164-industriesarrow.3e477e6f.svg",
           height: 16,
           width: 16
         },
         ex = {
-          src: "/_next/static/media/168-upsidedown-green-arrow.437383a7.svg",
+          src: "https://www.lizard.global/_next/static/media/168-upsidedown-green-arrow.437383a7.svg",
           height: 7,
           width: 10
         },
         ek = {
-          src: "/_next/static/media/Menu.8acd8ede.svg",
+          src: "https://www.lizard.global/_next/static/media/Menu.8acd8ede.svg",
           height: 23,
           width: 25
         },
         ew = {
-          src: "/_next/static/media/close.cb0d86eb.svg",
+          src: "https://www.lizard.global/_next/static/media/close.cb0d86eb.svg",
           height: 20,
           width: 20
         },
         e_ = {
-          src: "/_next/static/media/169-black-arrow.4e620c32.svg",
+          src: "https://www.lizard.global/_next/static/media/169-black-arrow.4e620c32.svg",
           height: 8,
           width: 8
         },
         eS = {
-          src: "/_next/static/media/nav_phoneimg1.b65d631b.png",
+          src: "https://www.lizard.global/_next/static/media/nav_phoneimg1.b65d631b.png",
           height: 1625,
           width: 750,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAJ1BMVEXj6Oju9vX5+vb08/Tt8u75+vr59/XR3c/Q09rI1Mh0joyQrayPwr8bVEABAAAAAnRSTlP786VvVugAAAAJcEhZcwAACxMAAAsTAQCanBgAAAApSURBVHicJcQxAgAgCAOxg2JV9P/vdTBDKLtQZlK2kMZg7sXvdF8iiAcL2wCfc1k/nAAAAABJRU5ErkJggg==",
@@ -36513,7 +36513,7 @@ ${T.current.stack}
           blurHeight: 8
         },
         eA = {
-          src: "/_next/static/media/nav_phoneimg2.db4ac88a.png",
+          src: "https://www.lizard.global/_next/static/media/nav_phoneimg2.db4ac88a.png",
           height: 812,
           width: 375,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAKlBMVEX5+vv19fTFx8gHCATv8PDg4ePb29rR0cuYmZlpbHROU1ilpqf++u3e3t4ebRh+AAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKUlEQVR4nBXISQ4AMAgDsSEBuv7/vVUln0wkQUnFWXuS3T8+uAxJ2PYDCdsAdlgfXTEAAAAASUVORK5CYII=",
@@ -36521,7 +36521,7 @@ ${T.current.stack}
           blurHeight: 8
         },
         eE = {
-          src: "/_next/static/media/nav_phoneimg3.8e30b4c7.png",
+          src: "https://www.lizard.global/_next/static/media/nav_phoneimg3.8e30b4c7.png",
           height: 1624,
           width: 750,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAJ1BMVEX6+/vx8fHr8/bz9fbj5Nz4487/0aH/7dv/16/f28nu6t/h5t+X19eI5L4TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKElEQVR4nBXGuREAIBADsfXZ/PRfL4MicVcOOwkugSRj9Au42qCqzwcKdQBw4KQrFAAAAABJRU5ErkJggg==",
@@ -36529,7 +36529,7 @@ ${T.current.stack}
           blurHeight: 8
         },
         eP = {
-          src: "/_next/static/media/nav_phoneimg4.b65d631b.png",
+          src: "https://www.lizard.global/_next/static/media/nav_phoneimg4.b65d631b.png",
           height: 1625,
           width: 750,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAICAMAAADp7a43AAAAJ1BMVEXj6Oju9vX5+vb08/Tt8u75+vr59/XR3c/Q09rI1Mh0joyQrayPwr8bVEABAAAAAnRSTlP786VvVugAAAAJcEhZcwAACxMAAAsTAQCanBgAAAApSURBVHicJcQxAgAgCAOxg2JV9P/vdTBDKLtQZlK2kMZg7sXvdF8iiAcL2wCfc1k/nAAAAABJRU5ErkJggg==",
@@ -37969,7 +37969,7 @@ ${T.current.stack}
         eF = r(93099),
         eL = r(23877),
         eB = {
-          src: "/_next/static/media/msc.6ab8dd83.png",
+          src: "https://www.lizard.global/_next/static/media/msc.6ab8dd83.png",
           height: 73,
           width: 100,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAG1BMVEWOjo6Pj4+Ojo6Ojo6NjY2Ojo6Pj4+JiYmOjo5iQku2AAAACXRSTlMxAUCUUHurIHDQ+WHLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAALElEQVR4nCXGwQ3AMAzEMMlnO9l/4qDohyDqOSrq5AtMcgt2904C0N0NVP08DTsAdap1TIUAAAAASUVORK5CYII=",
@@ -37977,7 +37977,7 @@ ${T.current.stack}
           blurHeight: 6
         },
         eZ = {
-          src: "/_next/static/media/salesforce.b3a68fd3.png",
+          src: "https://www.lizard.global/_next/static/media/salesforce.b3a68fd3.png",
           height: 70,
           width: 100,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAMAAADJ2y/JAAAAIVBMVEWPj4+JiYmPj4+Pj4+QkJCOjo6Tk5OMjIyQkJCOjo6UlJQlHnllAAAACnRSTlOkBta47iPxe2xfjSwEjgAAAAlwSFlzAAALEwAACxMBAJqcGAAAACxJREFUeJwdyckRACAMA7G1cwDpv2AG9BUMQZWYrw8GiGjStjMh38QWYlZJuhe+ANg31hvaAAAAAElFTkSuQmCC",
@@ -37985,7 +37985,7 @@ ${T.current.stack}
           blurHeight: 6
         },
         eV = {
-          src: "/_next/static/media/mdec.a7a673dc.png",
+          src: "https://www.lizard.global/_next/static/media/mdec.a7a673dc.png",
           height: 56,
           width: 92,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAFCAMAAABPT11nAAAALVBMVEVbW1tra2tMaXEAAABsbGxra2t8fHxWVlZ7e3tZWVltbW1SUlJSUlKLi4teXl6t6rVaAAAAD3RSTlMKYgABHZcSt6d0P5daIaSD+JtVAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAKklEQVR4nCXKxw0AIAwAsUtIpey/LhL4bcbQB+AEYazMKvfJ7hYRMf5QvQ5xAKOnOKphAAAAAElFTkSuQmCC",
@@ -37993,7 +37993,7 @@ ${T.current.stack}
           blurHeight: 5
         },
         ez = {
-          src: "/_next/static/media/venturecafe.42f4ac0c.png",
+          src: "https://www.lizard.global/_next/static/media/venturecafe.42f4ac0c.png",
           height: 56,
           width: 192,
           blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAACCAMAAABSSm3fAAAAD1BMVEWurq6+vr6urq6vr6+zs7PZxAwYAAAABXRSTlMEKyNAEnkTTroAAAAJcEhZcwAACxMAAAsTAQCanBgAAAAWSURBVHicY2BkZGZmZmJiYQADFiZGAAEYABuyV+2WAAAAAElFTkSuQmCC",
@@ -38691,7 +38691,7 @@ ${T.current.stack}
       var ri = rn;
       r(46529), r(71470), r(63533), r(56156);
       var ra = {
-          src: "/_next/static/media/10yrs.10548ef1.svg",
+          src: "https://www.lizard.global/_next/static/media/10yrs.10548ef1.svg",
           height: 121,
           width: 229
         },
